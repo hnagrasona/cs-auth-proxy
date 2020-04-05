@@ -1,0 +1,9 @@
+version: 1
+
+dn: dc=example,dc=org
+objectClass: organization
+objectClass: dcObject
+objectClass: top
+dc: example
+o: Example Inc.
+
