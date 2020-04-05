@@ -24,7 +24,7 @@ dn: ou=Groups,dc=example,dc=org
 objectClass: organizationalUnit
 ou: Groups
 
-dn: cn=admins,ou=Groups,dc=example,dc=org
+dn: cn=testers,ou=Groups,dc=example,dc=org
 objectClass: groupOfNames
 cn: testers
 member: cn=john,ou=People,dc=example,dc=org
